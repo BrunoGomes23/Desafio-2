@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.container {
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+
+}
+
+
+.container-right {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #848484;
+    height: 87px;
+    box-sizing: border-box;
+}
